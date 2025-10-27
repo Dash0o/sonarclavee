@@ -1,8 +1,8 @@
-import streamlit como st
-import numpy como np
+import streamlit as st
+import numpy as np
 import io
 import wave
-import matplotlib.pyplot como plt
+import matplotlib.pyplot as plt
 
 # ---------------------------
 # Configuración general de la página
@@ -159,4 +159,5 @@ st.write("""
 
 
 Correo de contacto: Sonarclaveymusicologistica@gmail.com
+
 """)
